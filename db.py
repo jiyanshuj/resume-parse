@@ -135,7 +135,7 @@ async def upsert_user_profile(clerk_id: str, profile_data: Dict[str, Any]) -> Di
             "$set": profile_data,
             "$setOnInsert": {"created_at": datetime.utcnow()}
         },
-        upsert=True,
+        upsert=True, 
         return_document=True
     )
     
@@ -217,3 +217,5 @@ def transform_parsed_resume_to_profile(parsed_data: Dict[str, Any], clerk_id: st
             for proj in parsed_data.get("Projects", [])
         ]
     }
+
+##change
