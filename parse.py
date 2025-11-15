@@ -123,7 +123,7 @@ Now extract the data from the following resume:
 \"\"\"
 """
     
-    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    model = genai.GenerativeModel('gemini-2.0-flash-lite')
     response = model.generate_content(prompt)
     cleaned_response = clean_gemini_response(response.text)
     return cleaned_response
