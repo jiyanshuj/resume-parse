@@ -13,47 +13,32 @@ A powerful FastAPI-based resume parsing service that extracts structured informa
 - **CORS Enabled**: Ready for frontend integration
 - **Production Ready**: Configured for deployment on Render.com
 
-## � Application Showcase
+## 📱 Application Showcase
 
-### Resume Upload Interface
-<img src="./screenshots/upload-screen.png" alt="Resume Upload Screen" width="300"/>
+<p align="center">
+  <img src="./screenshots/upload-screen.png" alt="Resume Upload Screen" width="400"/>
+  <img src="./screenshots/profile-data.png" alt="Extracted Profile Data" width="400"/>
+</p>
+<p align="center">
+  <strong>Resume Upload Interface</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Extracted Professional Profile</strong>
+</p>
 
-Users can easily upload their resume files (PDF, DOC, DOCX up to 5MB) through an intuitive interface. The backend automatically handles Cloudinary upload and AI-powered parsing.
+<p align="center">
+  <img src="./screenshots/skills-section.png" alt="Skills Section" width="400"/>
+  <img src="./screenshots/education-projects.png" alt="Education and Projects" width="400"/>
+</p>
+<p align="center">
+  <strong>Skills & Competencies</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Education & Projects</strong>
+</p>
 
-### Extracted Professional Profile
-<img src="./screenshots/profile-data.png" alt="Extracted Profile Data" width="300"/>
+<p align="center">
+  <img src="./screenshots/certifications-links.png" alt="Certifications and Links" width="400"/>
+</p>
+<p align="center">
+  <strong>Certifications & Professional Links</strong>
+</p>
 
-The API intelligently extracts and displays:
-- **Personal Information**: Name, email, phone, location
-- **Role & Relocation**: Job seeker status and willingness to relocate
-- **Resume Storage**: Cloudinary-hosted resume with direct view access
-
-### Skills & Competencies
-<img src="./screenshots/skills-section.png" alt="Skills Section" width="300"/>
-
-Comprehensive skill extraction covering:
-- **Technical Skills**: Programming languages (Python, Java, C/C++, PHP, Django, etc.)
-- **Soft Skills**: Leadership, teamwork, public speaking, problem-solving
-- **Tools & Technologies**: MySQL, Git, GitHub, Linux, FigmaFlow, and more
-
-### Education & Projects
-<img src="./screenshots/education-projects.png" alt="Education and Projects" width="300"/>
-
-Automatically parsed academic background and project portfolio:
-- **Education History**: Degrees, institutions, and graduation years
-- **Projects**: Including descriptions and key achievements
-  - Skills Bridge Platform (AI-powered educational platform)
-  - SONAR Rock Vs Mine Prediction (94% precision ML model)
-
-### Certifications & Professional Links
-<img src="./screenshots/certifications-links.png" alt="Certifications and Links" width="300"/>
-
-Complete professional profile with:
-- **Certifications**: Microsoft Azure AI Fundamentals, Python courses, etc.
-- **Social Links**: Direct links to LinkedIn and GitHub profiles
-- **Resume Management**: View uploaded resumes with timestamps
-
-## �📋 Extracted Information
+## 📋 Extracted Information
 
 The API extracts comprehensive information from resumes:
 
