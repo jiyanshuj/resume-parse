@@ -16,26 +16,26 @@ A powerful FastAPI-based resume parsing service that extracts structured informa
 ## 📱 Application Showcase
 
 <p align="center">
-  <img src="./screenshots/upload-screen.png" alt="Resume Upload Screen" width="400"/>
-  <img src="./screenshots/profile-data.png" alt="Extracted Profile Data" width="400"/>
+  <img src="./screenshots/upload-screen.png" alt="Resume Upload Screen" width="300"/>
 </p>
 <p align="center">
-  <strong>Resume Upload Interface</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Extracted Professional Profile</strong>
-</p>
-
-<p align="center">
-  <img src="./screenshots/skills-section.png" alt="Skills Section" width="400"/>
-  <img src="./screenshots/education-projects.png" alt="Education and Projects" width="400"/>
-</p>
-<p align="center">
-  <strong>Skills & Competencies</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Education & Projects</strong>
+  <strong>Resume Upload Interface</strong>
 </p>
 
 <p align="center">
-  <img src="./screenshots/certifications-links.png" alt="Certifications and Links" width="400"/>
+  <img src="./screenshots/profile-data.png" alt="Extracted Profile Data" width="300"/>
+  <img src="./screenshots/skills-section.png" alt="Skills Section" width="300"/>
 </p>
 <p align="center">
-  <strong>Certifications & Professional Links</strong>
+  <strong>Extracted Professional Profile</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skills & Competencies</strong>
+</p>
+
+<p align="center">
+  <img src="./screenshots/education-projects.png" alt="Education and Projects" width="300"/>
+  <img src="./screenshots/certifications-links.png" alt="Certifications and Links" width="300"/>
+</p>
+<p align="center">
+  <strong>Education & Projects</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Certifications & Professional Links</strong>
 </p>
 
 ## 📋 Extracted Information
