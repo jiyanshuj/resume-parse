@@ -16,26 +16,26 @@ A powerful FastAPI-based resume parsing service that extracts structured informa
 ## 📱 Application Showcase
 
 <p align="center">
-  <img src="./screenshots/upload-screen.png" alt="Resume Upload Screen" width="300"/>
+  <img src="./screenshots/upload-screen.png" alt="Resume Upload Screen" width="250"/>
 </p>
 <p align="center">
   <strong>Resume Upload Interface</strong>
 </p>
 
-<p align="center">
-  <img src="./screenshots/profile-data.png" alt="Extracted Profile Data" width="300"/>
-  <img src="./screenshots/skills-section.png" alt="Skills Section" width="300"/>
+<p align="left">
+  <img src="./screenshots/profile-data.png" alt="Extracted Profile Data" width="250"/>
+  <img src="./screenshots/skills-section.png" alt="Skills Section" width="250"/>
 </p>
-<p align="center">
-  <strong>Extracted Professional Profile</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skills & Competencies</strong>
+<p align="left">
+  <strong>Extracted Professional Profile</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Skills & Competencies</strong>
 </p>
 
-<p align="center">
-  <img src="./screenshots/education-projects.png" alt="Education and Projects" width="300"/>
-  <img src="./screenshots/certifications-links.png" alt="Certifications and Links" width="300"/>
+<p align="left">
+  <img src="./screenshots/education-projects.png" alt="Education and Projects" width="250"/>
+  <img src="./screenshots/certifications-links.png" alt="Certifications and Links" width="250"/>
 </p>
-<p align="center">
-  <strong>Education & Projects</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Certifications & Professional Links</strong>
+<p align="left">
+  <strong>Education & Projects</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Certifications & Professional Links</strong>
 </p>
 
 ## 📋 Extracted Information
