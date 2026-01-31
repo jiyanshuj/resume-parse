@@ -55,19 +55,28 @@ Complete professional profile with:
 
 ## �📋 Extracted Information
 
-The API extracts the following information from resumes:
+The API extracts comprehensive information from resumes:
 
-- **Personal Information**: First name, last name, full name, email, phone, location
-- **Professional Details**: Willing to relocate status, current company, role
-- **Skills**: 
-  - Technical skills (programming languages, frameworks, tools)
-  - Soft skills (communication, leadership, etc.)
-  - Combined skills list
-- **Social Links**: LinkedIn, GitHub, Portfolio URLs
-- **Experience**: Company, role, duration, description
-- **Education**: Degree, institution, year
-- **Certifications**: List of all certifications
-- **Projects**: Name, description, technologies used
+**Personal Information** • First name, last name, full name • Email, phone number • Location and relocation preferences  
+**Professional Details** • Current company and role • Job seeker status • Willing to relocate status
+
+**Skills & Competencies** • Technical skills (Python, Java, React, SQL, AWS, etc.) • Soft skills (Leadership, Communication, Problem Solving)  
+**Social Profiles** • LinkedIn profile URL • GitHub profile URL • Portfolio website URL
+
+**Work Experience** • Company name and position • Employment duration • Role description and achievements  
+**Education** • Degree and major • Institution name • Graduation year
+
+**Certifications** • Professional certifications list • Course completions  
+**Projects** • Project name and description • Technologies used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI"/>
+  <img src="https://img.shields.io/badge/PyPDF2-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="PyPDF2"/>
+</p>
 
 ## 🛠️ Tech Stack
 
