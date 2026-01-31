@@ -76,7 +76,7 @@ Create a `.env` file in the root directory:
 # MongoDB Configuration
 MONGODB_URL=mongodb://localhost:27017
 # or for MongoDB Atlas:
-# MONGODB_URL=mongodb+srv://username:password@cluster.mongodb.net/?retryWrites=true&w=majority
+# MONGODB_URL=
 
 # Cloudinary Configuration
 CLOUDINARY_CLOUD_NAME=your_cloud_name
@@ -257,23 +257,6 @@ All errors return JSON with a `detail` field explaining the issue.
 - **Automatic Timestamps**: `created_at` and `updated_at` managed automatically
 - **Unique Index**: Ensures one profile per clerk_id
 - **Async Operations**: All database operations are asynchronous for better performance
-
-## 📄 License
-
-This project is available for use as per the repository license.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-## 📞 Support
-
-For issues, questions, or contributions, please open an issue in the repository.
 
 ---
 
