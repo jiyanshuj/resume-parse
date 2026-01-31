@@ -53,7 +53,7 @@ The API extracts the following information from resumes:
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone https://github.com/jiyanshuj/resume-parse
 cd resume-parse
 ```
 
